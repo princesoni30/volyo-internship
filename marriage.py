@@ -6,9 +6,5 @@ if male_age >= 21 and female_age >= 18:
 else:
     if male_age < 21:
         print("Sorry! Male not eligible ")
-    if female_age < 18:
-<<<<<<< HEAD
-        print("Sorry! Female not eligible ")
-=======
-        print("Sorry! Female not eligible ")
->>>>>>> 9454db7 (hello)
+    if female_age < 1:
+      print("Sorry! Female not eligible ")
